@@ -8,7 +8,7 @@ Model code for Stress, Cognition, Memory and group adaptability to changing cond
 Simple  model to assess how stress arousal, cognition and memory affect ability of groups to solve complex problems and adapt
 to changing conditions .
 
-The model is comprised by two, interdependent feedback loops: The SRL (sensemaking-resource loop), and the SAL (sensemaking-arousal loop)
+The model is comprised by two, interdependent feedback loops: The GRL (Group - Resource - Loop ), and the GAL (Group Arousal Loop)
 
 
 """
